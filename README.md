@@ -3,7 +3,7 @@
  
 
 <a href="https://www.linkedin.com/in/jayaraghavendra/"><img height="30" src="https://github.com/JayaRaghavendra/MyProfile/blob/master/icon/linkedin.png"></a>
-<a href="https://sourcerer.io/jayaraghavendra/" target="_blank"><img src="https://raw.githubusercontent.com/samacker77/Zero-to-Hero-in-NLP/master/images/visual.png" align="left" height="30" width="30" ></a>
+<a href="https://sourcerer.io/jayaraghavendra/" target="_blank"><img src="https://github.com/JayaRaghavendra/MyProfile/blob/master/icon/visual.png" align="left" height="30" width="30" ></a>
 </p>
 
 ---
