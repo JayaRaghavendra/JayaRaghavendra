@@ -10,10 +10,10 @@
 <h2 style="text-align:center">Social Profiles</h2>
 
 - [E-Portfolio](https://samacker77.github.io)
-- [Kaggle](https://kaggle.com/samacker77k)
-- [Visual Profile](https://sourcerer.io/samacker77)
-- [samarsrivastava44@gmail.com](mailto:samarsrivastava44@gmail.com)
-- [Click to Chat](https://wa.link/vh8tk9)
+- [Kaggle](https://www.kaggle.com/jayaraghavendra)
+- [Visual Profile](https://sourcerer.io/jayaraghavendra/)
+- [jay.raghav333@gmail.com](mailto:jay.raghav333@gmail.com)
+- [Click to Chat](https://wa.me/7036563656)
 
 
 Hey there 👋,
