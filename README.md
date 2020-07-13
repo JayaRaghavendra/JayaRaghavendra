@@ -9,7 +9,6 @@
 ---
 <h2 style="text-align:center">Social Profiles</h2>
 
-- [E-Portfolio](https://samacker77.github.io)
 - [Kaggle](https://www.kaggle.com/jayaraghavendra)
 - [Visual Profile](https://sourcerer.io/jayaraghavendra/)
 - [jay.raghav333@gmail.com](mailto:jay.raghav333@gmail.com)
@@ -25,7 +24,7 @@ Hey there 👋,
 
 ### About me 🌱
 
-I write regular posts explaning Machine Learning concepts in simple ways, most of which you will find on my linkedin profile [here](https://linkedin.com/in/samacker77l)
+I write regular posts explaning Machine Learning concepts in simple ways, most of which you will find on my linkedin profile [here](https://www.linkedin.com/in/jayaraghavendra/)
 Connect with me if you are into Machine Learning, Natural Language Processing or Data Science, or want to discuss philosophy
 
 
@@ -33,10 +32,9 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 Some of my best works for the community:
 
-- [Zero to Hero in NLP](https://github.com/samacker77/Zero-to-Hero-in-NLP)
-- Trigram Language Model named [GPT-Free](https://www.kaggle.com/samacker77k/gpt-free-tri-gram-language-model?rvi=1)
-- Why you should [not be using nltk](https://www.kaggle.com/samacker77k/better-tokenization-nltk-vs-tokenizers)
-- Never forget [Precision & Recall](https://www.linkedin.com/posts/samacker77l_datascience-machinelearning-python-activity-6673279940378583040-OPDq)
+- Trigram Language Model named [GPT-Free]()
+- Why you should [not be using nltk]()
+- Never forget [Precision & Recall]()
 
 Browse through my Github repositories for more.
 
