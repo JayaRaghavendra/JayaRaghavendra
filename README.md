@@ -1,4 +1,4 @@
-# [![Jaya Raghavedra](https://raw.githubusercontent.com/JayaRaghavendra/MyProfile/master/assests/Jaya.jpg)]
+# [![](https://github.com/JayaRaghavendra/MyProfile/blob/master/assests/Jaya.jpg)]
 <p align='center'>
  
 
