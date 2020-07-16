@@ -12,7 +12,7 @@
 - [Kaggle](https://www.kaggle.com/jayaraghavendra)
 - [Visual Profile](https://sourcerer.io/jayaraghavendra/)
 - [jay.raghav333@gmail.com](mailto:jay.raghav333@gmail.com)
-- [Click to Chat](https://wa.me/7036563656?text=Hi Raghav. Let's have a quick chat.)
+- [Click to Chat](https://wa.me/7036563656?text=Hi Raghav. Let's have a quick chat)
 
 
 Hey there 👋,
