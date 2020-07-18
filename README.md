@@ -32,11 +32,11 @@ Connect with me if you are into Machine Learning, Natural Language Processing or
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **machine learning**. 
 
 Some of my best works for the community:
-
+<!---
 - Trigram Language Model named [GPT-Free]()
 - Why you should [not be using nltk]()
 - Never forget [Precision & Recall]()
-
+-->
 Browse through my Github repositories for more.
 
 
