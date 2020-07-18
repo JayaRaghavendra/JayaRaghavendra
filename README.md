@@ -26,7 +26,7 @@ Hey there 👋,
 ### About me 🌱
 
 I write regular posts explaning Machine Learning concepts in simple ways, most of which you will find on my linkedin profile [here](https://www.linkedin.com/in/jayaraghavendra/)
-Connect with me if you are into Machine Learning, Natural Language Processing or Data Science, or want to discuss philosophy
+Connect with me if you are into Machine Learning, Computer Vision or Data Science, or want to discuss philosophy
 
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **machine learning**. 
