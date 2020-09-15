@@ -74,7 +74,7 @@ Download as PDF
 ## Connect with me!
 Known on internet as **jayaraghavendra**
 
-[<img src="https://img.icons8.com/bubbles/100/000000/medium-monogram.png">](https://medium.com/@jay.raghav333/machine-learning-9b51a63015ae/)[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/jayaraghavendra/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/JayaRaghavendra/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png">](https://twitter.com/JayaRaghavnedr1/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/jayraghaven/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/jay_raghav1/)
+[<img src="https://img.icons8.com/bubbles/100/000000/medium-monogram.png">](https://medium.com/@jay.raghav333/machine-learning-9b51a63015ae/)[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/jayaraghavendra/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/JayaRaghavendra/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png">](https://twitter.com/JayaRaghavnedr1/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/jayraghaven/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/raghavspeaks/)
 
 
 ## Email Me
