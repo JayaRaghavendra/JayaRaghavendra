@@ -53,13 +53,13 @@ I also pursued Data Scientist certification program by Simplilearn which is spec
 and I have done three certifications in **Python Development Suite, Machine Learning, DataScience with Python from Simplilearn 2019**
 
 ## Coding Skills
-**Languages:**  Python [<img src="https://img.icons8.com/color/30/000000/snake.png">](), Machine Learning.
+**Languages:**  Python, [<img src="https://img.icons8.com/color/30/000000/snake.png">](), SQL.
 
-**Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib.
+**Libraries:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
 
-**Development Environment:** Windows10 OS, Jupyter Notebook, Spyder.
+**Development Environment:** Windows10 OS, Jupyter, Google Colab anf kaggle Notebooks.
 
 **Version Control:**  One and only GitHub :heart:
 
