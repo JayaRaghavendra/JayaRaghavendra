@@ -2,8 +2,8 @@
 <p align='center'>
  
 
-<a href="https://www.linkedin.com/in/jayaraghavendra/"><img height="30" src="https://github.com/JayaRaghavendra/MyProfile/blob/master/icon/linkedin.png"></a>
-</p>
+<!-- <a href="https://www.linkedin.com/in/jayaraghavendra/"><img height="30" src="https://github.com/JayaRaghavendra/MyProfile/blob/master/icon/linkedin.png"></a>
+</p> --/>
 
 ---
 <h2 style="text-align:center">Social Profiles</h2>
