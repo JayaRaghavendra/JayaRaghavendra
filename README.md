@@ -1,4 +1,4 @@
-![Jaya Raghavendra](https://github.com/JayaRaghavendra/MyProfile/blob/master/assests/jay.jpg)
+![Jaya Raghavendra](https://github.com/JayaRaghavendra/MyProfile/blob/master/assests/jay.png)
 <p align='center'>
  
 
