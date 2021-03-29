@@ -3,14 +3,12 @@
  
 
 <a href="https://www.linkedin.com/in/jayaraghavendra/"><img height="30" src="https://github.com/JayaRaghavendra/MyProfile/blob/master/icon/linkedin.png"></a>
-<a href="https://sourcerer.io/jayaraghavendra/" target="_blank"><img src="https://github.com/JayaRaghavendra/MyProfile/blob/master/icon/visual.png" align="left" height="30" width="30" ></a>
 </p>
 
 ---
 <h2 style="text-align:center">Social Profiles</h2>
 
 - [Kaggle](https://www.kaggle.com/jayaraghavendra)
-- [Visual Profile](https://sourcerer.io/jayaraghavendra/)
 - [jay.raghav333@gmail.com](mailto:jay.raghav333@gmail.com)
 - [Click to Chat](https://bit.ly/32nvGXT)
 
