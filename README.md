@@ -1,9 +1,5 @@
 ![Jaya Raghavendra](https://github.com/JayaRaghavendra/MyProfile/blob/master/assests/jay.png)
 <p align='center'>
- 
-
-<!-- <a href="https://www.linkedin.com/in/jayaraghavendra/"><img height="30" src="https://github.com/JayaRaghavendra/MyProfile/blob/master/icon/linkedin.png"></a>
-</p> --/>
 
 ---
 <h2 style="text-align:center">Social Profiles</h2>
@@ -30,11 +26,7 @@ Connect with me if you are into Machine Learning, Computer Vision or Data Scienc
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **machine learning**. 
 
 Some of my best works for the community:
-<!---
-- Trigram Language Model named [GPT-Free]()
-- Why you should [not be using nltk]()
-- Never forget [Precision & Recall]()
--->
+
 Browse through my Github repositories for more.
 
 
