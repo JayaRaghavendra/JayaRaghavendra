@@ -4,7 +4,7 @@
 ---
 <h2 style="text-align:center">Social Profiles</h2>
 
-- [Kaggle](https://www.kaggle.com/jayaraghavendra)
+
 - [jay.raghav333@gmail.com](mailto:jay.raghav333@gmail.com)
 - [Click to Chat](https://bit.ly/32nvGXT)
 
