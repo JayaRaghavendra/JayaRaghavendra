@@ -37,7 +37,7 @@ I started my real coding journey in 2015 when I joined in a IT firm.After devoti
 ## What do I do?
 Literally everything with data!! :blush:
 
-•	In my total 3+ Years of IT experience, with over 2.1 years of experience as a GIS Analyst, Data Analysis, Dashboards and good analytical skills. 
+•	In my total 6.5years Years of IT experience, with over 4 years of experience as a Senior Data Scientist 
 
 I also pursued Data Scientist certification program by Simplilearn which is specialized in building effective machine learning models, run data pipelines, build recommendation systems
 and I have done three certifications in **Python Development Suite, Machine Learning, DataScience with Python from Simplilearn 2019**
